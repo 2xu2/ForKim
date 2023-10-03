@@ -1,4 +1,4 @@
 # ForKim
-A crash course on nonlinear solver and interpolations with Julia for Kim Ruhl
+A crash course on nonlinear solver and interpolations with Julia for Kim.
 
 Check the .ipynb file.
